@@ -1,0 +1,29 @@
+table {
+  margin: 30px;
+  background-color: rgb(56, 56, 56);
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.table-title {
+  padding: 20px;
+}
+
+.table-content {
+  padding: 15px;
+}
+
+.select-user, .delete-user {
+  text-decoration: none;
+  color: white;
+  padding: 9px 15px;
+  border-radius: 8px;
+}
+
+.select-user {
+  background-color: rgb(1, 27, 113);
+}
+
+.delete-user {
+  background-color: brown;
+}

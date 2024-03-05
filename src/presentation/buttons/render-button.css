@@ -1,0 +1,9 @@
+.content-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+#current-page {
+  margin-left: 30px;
+  margin-right: 30px;
+}
